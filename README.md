@@ -1,3 +1,7 @@
+# We move to [ACE-Genomics/wxspipe](https://github.com/ACE-Genomics/wxspipe)
+
+
+
 # WESpipe
 
 Parallel processing for whole exome sequencing (WES) or whole genome sequencing (WGS) pipeline. [Why in Perl?](https://xkcd.com/224/)
